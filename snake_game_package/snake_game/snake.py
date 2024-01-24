@@ -1,8 +1,8 @@
 """
 Snake module
 """
-from utility import Node
-from food import Food
+from .utility import Node
+from .food import Food
 import uuid
 
 

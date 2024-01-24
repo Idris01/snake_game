@@ -2,7 +2,7 @@
 Board Module
 """
 import tkinter as tk
-from snake import Snake
+from .snake import Snake
 
 
 class Board:

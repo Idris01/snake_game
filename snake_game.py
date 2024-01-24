@@ -1,8 +1,7 @@
 import tkinter as tk
 import random
 import uuid
-from snake import Snake
-from board import Board
+from snake_game_package import *
 
 def main():
     root = tk.Tk()
